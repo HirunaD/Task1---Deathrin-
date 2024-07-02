@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       
-      <div className='navbarnew'>
+      <div >
         <Navbarnew />
       </div>
       <div>
