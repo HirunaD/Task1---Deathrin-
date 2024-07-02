@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 // import Navbar from './components/Navbar'
 import Navbarnew from './components/Navbarnew'
-import FirstPage from './components/FirstPage'
+import FirstPage from './pages/FirstPage'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -14,9 +14,10 @@ function App() {
       
       <div >
         <Navbarnew />
+        <FirstPage />
       </div>
       <div>
-        <FirstPage />
+        
       </div>
     </>
   )
