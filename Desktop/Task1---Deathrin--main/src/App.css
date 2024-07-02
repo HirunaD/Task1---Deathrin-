@@ -1,0 +1,6 @@
+/* src/index.css or src/Navbar.css */
+.navbar-bg {
+  background-image: url('../assets/your-background-image.jpg'); /* Adjust the path to your image */
+  background-size: cover; /* Ensures the image covers the entire navbar */
+  background-position: center; /* Centers the image */
+}
